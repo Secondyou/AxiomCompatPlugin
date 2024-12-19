@@ -1,5 +1,5 @@
-# FFmpegPlugin
-FFmpeg Plugin for PojavLauncher
+# AxiomCompatPlugin
+Imgui-Java Libary Plugin for PojavLauncher
 ## how to build
 builds only on linux because i dont like windows
 ```
